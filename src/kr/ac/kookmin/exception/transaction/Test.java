@@ -60,7 +60,7 @@ class Bank {
 		System.out.println("C 계좌 거래 취소  ");
 		balance += 300;
 	}
-}
+} 
 
 	
 public class Test {
